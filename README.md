@@ -1,23 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Abhinav
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ABHINAV&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-### Full Stack Developer · UI Engineer · Creative Developer
+# Full Stack Developer · UI Engineer · Creative Developer
 
-**I build digital products where engineering meets design.**
+Building products where **code meets creativity.**
 
-<br/>
-
-<a href="https://github.com/Abhinav1480">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Abhinav1480)
 
 </div>
-
----
 
 ## ⚡ About Me
 
