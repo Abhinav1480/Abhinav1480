@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHINAV&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20%E2%80%A2%20UI%20ENGINEER%20%E2%80%A2%20CREATIVE%20DEVELOPER&descSize=16&descAlignY=62&descColor=00E5FF&color=0:050505,100:0A0A0A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHINAV&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20%E2%80%A2%20UI%20ENGINEER%20%E2%80%A2%20CREATIVE%20DEVELOPER&descSize=16&descAlignY=62&descColor=FF3B30&color=0:050505,45:120000,75:3D0000,100:050505"/>
 
 <br>
 
@@ -85,7 +85,7 @@ A fitness platform combining workout generation, diet planning, tracking and an 
 
 ## `03` — CURRENTLY BUILDING
 
-```text
+```text id="x4nqbc"
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
 │  AI Engineering       ████████████████░░░   85%    │
@@ -105,13 +105,13 @@ Currently exploring **AI engineering, scalable full-stack systems, cloud archite
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav1480&show_icons=true&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&ring_color=00E5FF&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav1480&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3B30&text_color=FFFFFF&icon_color=FF3B30&ring_color=FF3B30&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav1480&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav1480&layout=compact&hide_border=true&bg_color=050505&title_color=FF3B30&text_color=FFFFFF" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Abhinav1480&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=Abhinav1480&hide_border=true&background=050505&ring=FF3B30&fire=FF3B30&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
@@ -129,7 +129,7 @@ Currently exploring **AI engineering, scalable full-stack systems, cloud archite
 
 ## `06` — BEYOND CODE
 
-```text
+```text id="b1g3zq"
 01  →  Building products
 02  →  Exploring AI
 03  →  Hackathons
@@ -146,7 +146,7 @@ Currently exploring **AI engineering, scalable full-stack systems, cloud archite
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinav1480&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Abhinav1480&style=flat-square&color=FF3B30&label=PROFILE+VIEWS"/>
 
 <br><br>
 
@@ -154,11 +154,11 @@ Currently exploring **AI engineering, scalable full-stack systems, cloud archite
 
 </div>
 
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    ABHINAV
-       FULL STACK • UI • CREATIVE DEVELOPMENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050505,100:250000"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0A0A0A,100:050505"/>
+<!--
+████████████████████████████████████████████████████
+                         ABHINAV
+              FULL STACK • UI • CREATIVE
+████████████████████████████████████████████████████
+-->
