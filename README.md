@@ -1,180 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ABHINAV&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ABHINAV&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20%E2%80%A2%20UI%20ENGINEER%20%E2%80%A2%20CREATIVE%20DEVELOPER&descSize=16&descAlignY=62&descColor=00E5FF&color=0:050505,100:0A0A0A"/>
 
-# Full Stack Developer · UI Engineer · Creative Developer
+<br>
 
-Building products where **code meets creativity.**
+# Building digital experiences where **code meets creativity.**
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Abhinav1480)
+I design and build modern web products with a focus on
+**engineering, interfaces, and real-world problems.**
 
-</div>
+<br>
 
-## ⚡ About Me
-
-```yaml
-name: Abhinav
-role: Full Stack Developer
-focus:
-  - UI Engineering
-  - Creative Development
-  - Web Applications
-  - AI-powered Products
-
-currently:
-  - Building real-world products
-  - Exploring AI + Web technologies
-  - Improving system design & backend development
-
-philosophy: "Build it. Ship it. Make it memorable."
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,threejs" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws,docker" />
+<a href="YOUR_PORTFOLIO_URL">Portfolio ↗</a>
+  •   <a href="YOUR_LINKEDIN_URL">LinkedIn ↗</a>
+  •   <a href="https://github.com/Abhinav1480">GitHub ↗</a>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `01` — SELECTED WORK
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 ExamOS
 
-> A centralized study workspace designed to bring notes, PDFs, planning and productivity into one place.
+A centralized study workspace for managing notes, PDFs, planning and productivity.
 
-**Stack:** React · Vite · Tailwind · Firebase
+**React · Vite · Tailwind · Firebase**
 
-🔗 **Live:** https://exam-os-seven.vercel.app/
-🔗 **Code:** https://github.com/Abhinav1480/ExamOS
+[Live ↗](https://exam-os-seven.vercel.app/) · [Code ↗](https://github.com/Abhinav1480/ExamOS)
 
----
+</td>
+
+<td width="50%">
 
 ### 📈 StockPilot
 
-> A modern stock-management and analytics platform focused on making financial data easier to understand.
+A modern stock-management platform focused on clean workflows and data visualization.
 
-**Stack:** React · TypeScript · APIs · Modern UI
+**React · TypeScript · APIs · Modern UI**
 
-🔗 **Code:** https://github.com/Abhinav1480/stock-pilot
+[Code ↗](https://github.com/Abhinav1480/stock-pilot)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛡️ HireGuard AI
 
-> An AI-assisted interview analysis concept designed to identify potential bias and improve interview evaluation.
+An AI-assisted interview analysis concept designed around fairer evaluation workflows.
 
-**Stack:** React · Vite · AI · Data Analysis
+**React · Vite · AI · Data Analysis**
 
----
+</td>
+
+<td width="50%">
 
 ### 💪 Fitness Coach
 
-> An intelligent fitness platform combining workout generation, diet planning, progress tracking and an AI assistant.
+A fitness platform combining workout generation, diet planning, tracking and an AI assistant.
 
-**Stack:** React · Node.js · AI · Firebase
+**React · Node.js · AI · Firebase**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub
+## `02` — STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav1480&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav1480&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Abhinav1480&hide_border=true&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,threejs,nodejs,express,mongodb,firebase,git,github,aws,vercel,figma&perline=9" />
 
 </div>
 
 ---
 
-## 🧠 Currently Exploring
+## `03` — CURRENTLY BUILDING
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  AI Engineering        ████████████░░  85%    │
-│  Full Stack            █████████████░  90%    │
-│  UI Engineering        ████████████░░  85%    │
-│  Cloud / AWS            ██████████░░░░  75%    │
-│  System Design          ████████░░░░░░  65%    │
-│                                               │
-└───────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  AI Engineering       ████████████████░░░   85%    │
+│  Full Stack           █████████████████░░   90%    │
+│  UI Engineering       ████████████████░░░   85%    │
+│  Cloud / AWS          ██████████████░░░░░   75%    │
+│  System Design        ████████████░░░░░░░   65%    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+Currently exploring **AI engineering, scalable full-stack systems, cloud architecture and advanced UI engineering.**
+
+---
+
+## `04` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav1480&show_icons=true&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&ring_color=00E5FF&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav1480&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Abhinav1480&hide_border=true&background=050505&ring=00E5FF&fire=00E5FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+</div>
+
+---
+
+## `05` — CONTRIBUTION FLOW
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abhinav1480/Abhinav1480/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## `06` — BEYOND CODE
+
+```text
+01  →  Building products
+02  →  Exploring AI
+03  →  Hackathons
+04  →  UI experiments
+05  →  Open source
+06  →  Learning something new
 ```
 
 ---
 
-## 🏆 What I Like Building
-
-**01 — Product Interfaces**
-Clean, interactive and memorable experiences.
-
-**02 — Full Stack Systems**
-From frontend architecture to APIs and databases.
-
-**03 — AI-Powered Products**
-Practical AI features that solve real problems.
-
-**04 — Developer Experiences**
-Tools that make complex workflows simpler.
-
----
-
-## 🎯 2026
-
-* 🚀 Ship more real-world products
-* ☁️ Go deeper into AWS & cloud architecture
-* 🤖 Build production-ready AI applications
-* 🧩 Improve system design
-* 🏆 Participate in challenging hackathons
-* 🌐 Build a stronger open-source presence
-
----
-
-## 💬 Let's Connect
-
 <div align="center">
+
+### `BUILD  •  SHIP  •  ITERATE`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhinav1480&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
+
+<br><br>
 
 **Have an interesting idea? Let's build it.**
 
-<br/>
-
-<a href="https://github.com/Abhinav1480">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abhinav1480&style=flat-square&color=blue" />
-
 </div>
 
----
+<!--
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                    ABHINAV
+       FULL STACK • UI • CREATIVE DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
-<div align="center">
-
-### `BUILD • SHIP • ITERATE`
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0A0A0A,100:050505"/>
