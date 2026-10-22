@@ -4,25 +4,25 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FF6B4A&center=true&vCenter=true&width=820&lines=Building+products+that+don't+look+generic.;Turning+ideas+into+real+experiences.;Code+%2B+Design+%2B+Creativity.;Always+building.+Always+iterating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FF6B4A&center=true&vCenter=true&width=820&lines=Building+products+that+don't+look+generic.;Turning+ideas+into+real+experiences.;Code+%2B+Design+%2B+Creativity.;Always+building.+Always+iterating."/>
 
-<br>
+<br><br>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF4D30?style=for-the-badge&logoColor=white"/>
+<a href="https://abhi-portfolio-inky.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-FF4D30?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-FF8A45?style=for-the-badge&logoColor=white"/>
+<a href="https://www.linkedin.com/in/abhinav-nakka-5133b1356/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-FF8A45?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Abhinav1480">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-FFC857?style=for-the-badge&logoColor=111111"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore-FFC857?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
 
 <br><br>
 
-> **Building digital experiences where code meets creativity.**
+### Building digital experiences where code meets creativity.
+
+Full Stack Developer · UI Engineer · Creative Developer
 
 </div>
 
@@ -31,132 +31,123 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/01-SELECTED%20WORK-FF4D30?style=flat-square"/>
-<img src="https://img.shields.io/badge/02-WHAT%20I%20BUILD-FF6B4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/02-EXPERTISE-FF6B4A?style=flat-square"/>
 <img src="https://img.shields.io/badge/03-TECH%20STACK-FF8A45?style=flat-square"/>
 <img src="https://img.shields.io/badge/04-EXPLORING-FFC857?style=flat-square"/>
-<img src="https://img.shields.io/badge/05-ACTIVITY-E8E8E8?style=flat-square&logoColor=111111"/>
+<img src="https://img.shields.io/badge/05-ACTIVITY-E8E8E8?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🔥 SELECTED WORK
+## 🔥 01 — Selected Work
 
 <table>
 <tr>
+<td width="50%">
 
+### 📈 StockPilot
+
+A stock and financial application exploring financial interfaces, market data and modern web application architecture.
+
+**React · JavaScript · REST APIs · Financial Data**
+
+<a href="https://github.com/Abhinav1480/stock-pilot">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-FF4D30?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
 <td width="50%">
 
 ### 🎓 ExamOS
 
-A centralized study workspace built to bring notes, PDFs, planning and productivity into one place.
+A student productivity platform for managing study resources, PDFs, notes, timetables and academic planning.
 
-**React · Vite · Tailwind · Firebase**
+**React · Next.js · Firebase**
 
-<a href="https://exam-os-seven.vercel.app/">Live ↗</a> ·
-<a href="https://github.com/Abhinav1480/ExamOS">Code ↗</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 NetPulse
-
-A speed and network stability analyzer with live testing, network information and a modern dashboard.
-
-**React · Vite · Node.js · Express**
-
-<a href="https://github.com/Abhinav1480/netpulse">Code ↗</a>
+<a href="https://exam-os-seven.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-FF8A45?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Abhinav1480/ExamOS">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-FFC857?style=flat-square&logo=github&logoColor=111111"/>
+</a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
+### 🏥 Clinic Desk
 
-### 🛡️ HireGuard AI
+A clinic-focused web application project built to support clinic-related workflows.
 
-An AI-assisted interview analysis concept focused on structured and fairer evaluation workflows.
+**Web Development · Application Engineering**
 
-**React · Vite · AI · Data Analysis**
+<a href="https://github.com/Abhinav1480/clinic_desk">
+<img src="https://img.shields.io/badge/VIEW%20CLINIC%20DESK-FF8A45?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+### 🧪 Creative Experiments
+
+Exploring interactive interfaces, 3D web experiences, AI integrations and modern frontend concepts.
+
+**Three.js · React · UI/UX · AI**
+
+<a href="https://abhi-portfolio-inky.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-FFC857?style=flat-square&logo=vercel&logoColor=111111"/>
+</a>
 
 </td>
-
-<td width="50%">
-
-### 🎪 Offstage
-
-A multi-agent event management system connecting organizers, attendees and offline volunteers through one platform.
-
-**AI Agents · Web · Automation · Cloud**
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PRODUCT-FF4D30?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FULL%20STACK-FF6B4A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-FF8A45?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CREATIVE%20DEV-FFC857?style=for-the-badge"/>
-
-</div>
-
-## ⚡ WHAT I BUILD
+## ⚡ 02 — What I Build
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### 🎨
 
 **Product Experiences**
 
-Interfaces that feel intentional.
+Interfaces with strong visual identity and thoughtful interactions.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🧩
 
 **Full Stack Systems**
 
-Frontend → API → Database → Cloud
+Frontend, APIs, databases and deployment.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🤖
 
-**AI Products**
+**AI Applications**
 
-Practical AI solving real problems.
+Exploring practical AI integrations and intelligent products.
 
 </td>
-
 <td align="center" width="25%">
 
 ### ✦
 
 **Creative Development**
 
-Motion · Interaction · 3D · Visuals
+Interactive websites, animation and 3D experiences.
 
 </td>
-
 </tr>
 </table>
 
 ---
+
+## 🎨 03 — Technology Stack
 
 <div align="center">
 
@@ -176,43 +167,41 @@ Motion · Interaction · 3D · Visuals
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TOOLS%20%26%20CLOUD-FFC857?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOOLS%20%26%20WORKFLOW-FFC857?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,vercel,docker,figma,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&perline=5"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INTERESTS-AI%20%7C%203D%20%7C%20UI%2FUX-CE6B91?style=flat-square"/>
 
 </div>
 
 ---
 
+## 🚀 04 — Currently Exploring
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/CURRENTLY%20EXPLORING-FF6B4A?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=800&color=FFC857&center=true&vCenter=true&width=740&lines=AI+Engineering;Scalable+Full+Stack+Architecture;Advanced+UI+Engineering;Creative+Web+Experiences;3D+%26+Interactive+Development"/>
 
 <br><br>
 
-```text
-AI ENGINEERING       ████████████████░░░░   85%
-FULL STACK           ██████████████████░░   90%
-UI ENGINEERING       ████████████████░░░░   85%
-CLOUD / AWS          ██████████████░░░░░░   75%
-SYSTEM DESIGN        ████████████░░░░░░░░   65%
-```
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=FFC857&center=true&vCenter=true&width=720&lines=AI+Engineering;Scalable+Full+Stack+Architecture;Advanced+UI+Engineering;Creative+Web+Experiences;Cloud+%26+System+Design"/>
+<img src="https://img.shields.io/badge/BUILDING-FF4D30?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPERIMENTING-FF8A45?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARNING-FFC857?style=flat-square"/>
 
 </div>
 
+Currently focused on developing real-world products, improving full-stack skills and creating web experiences that combine engineering with design.
+
 ---
 
+## 📊 05 — GitHub Activity
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-FF8A45?style=for-the-badge"/>
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhinav1480&show_icons=true&hide_border=true&bg_color=101014&title_color=FF6B4A&text_color=F5F5F5&icon_color=FFC857&ring_color=FF4D30&rank_icon=github" height="170"/>
 
@@ -226,11 +215,9 @@ SYSTEM DESIGN        ████████████░░░░░░░�
 
 ---
 
+## 🐍 06 — Contribution Flow
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/CONTRIBUTION%20FLOW-FFC857?style=for-the-badge"/>
-
-<br><br>
 
 <img src="https://raw.githubusercontent.com/Abhinav1480/Abhinav1480/output/github-contribution-grid-snake.svg"/>
 
@@ -238,37 +225,19 @@ SYSTEM DESIGN        ████████████░░░░░░░�
 
 ---
 
-## 🧠 BEYOND CODE
+## 🌟 07 — Beyond Code
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center">
+<img src="https://img.shields.io/badge/AI-Explore%20Ideas-FF4D30?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HACKATHONS-Build%20Fast-FF8A45?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESIGN-Make%20It%20Memorable-FFC857?style=for-the-badge"/>
 
-### 🤖 AI
+<br><br>
 
-Exploring intelligent products and practical AI systems.
+Interested in building useful products, experimenting with new technologies and collaborating on creative projects.
 
-</td>
-
-<td align="center">
-
-### ⚡ HACKATHONS
-
-Building fast, experimenting hard and shipping under pressure.
-
-</td>
-
-<td align="center">
-
-### 🎨 DESIGN
-
-Creating interfaces that feel as good as they work.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -280,26 +249,28 @@ Creating interfaces that feel as good as they work.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinav1480&style=flat-square&color=FF4D30&label=PROFILE+VIEWS"/>
+### Have an interesting idea?
+
+## Let's build it.
+
+<br>
+
+<a href="https://abhi-portfolio-inky.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FF4D30?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br><br>
 
-# Have an interesting idea?
+<a href="https://www.linkedin.com/in/abhinav-nakka-5133b1356/">Connect on LinkedIn ↗</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Abhinav1480">Explore GitHub ↗</a>
 
-### Let's build it.
+<br><br>
 
-<br>
+<img src="https://komarev.vercel.app/ghpvc/?username=Abhinav1480&style=flat-square&color=FF6B4A&label=PROFILE+VIEWS"/>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-FF4D30?style=for-the-badge"/>
-</a>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer&animation=twinkling&color=0:050505,30:1A0505,60:8F1D1D,80:FF6B35,100:FFC857"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&section=footer&color=0:FF4D30,35:FF6B4A,70:FF8A45,100:FFC857"/>
 
 </div>
