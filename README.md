@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://abhi-portfolio-inky.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4D30?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://abhinav-3d-portfolio-red.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF4D30?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/abhinav-nakka-5133b1356/"><img src="https://img.shields.io/badge/LINKEDIN-5B8DEF?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://github.com/Abhinav1480"><img src="https://img.shields.io/badge/GITHUB-43C9B7?style=for-the-badge&logo=github&logoColor=101014" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Abhinav1480&label=PROFILE+VIEWS&color=FFC857&style=for-the-badge&labelColor=101014" alt="Profile views" />
