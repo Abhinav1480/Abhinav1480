@@ -175,8 +175,6 @@ spend most of my time. I'm currently exploring the seams between
 &nbsp;
 <img src="https://img.shields.io/badge/AWS_Cloud_Club_VJIT-FF718A?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=14141B" alt="Badge: AWS Cloud Club VJIT" />
 &nbsp;
-<img src="https://img.shields.io/badge/Google_Ambassador-5B8DEF?style=for-the-badge&logo=google&logoColor=white&labelColor=14141B" alt="Badge: Google Ambassador" />
-&nbsp;
 <img src="https://img.shields.io/badge/AWS_Student_Community_Day_Hyderabad_2026-FFC857?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=14141B" alt="Badge: AWS Student Community Day Hyderabad 2026" />
 
 <br /><br />
