@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="16" viewBox="0 0 780 16" role="img" aria-labelledby="divTitle">
+  <title id="divTitle">Section divider</title>
+  <defs>
+    <linearGradient id="divGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#43C9B7"/>
+      <stop offset="0.45" stop-color="#FF4D30"/>
+      <stop offset="0.75" stop-color="#FF8A45"/>
+      <stop offset="1" stop-color="#FFC857"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="16" fill="#101014"/>
+  <line x1="30" y1="8" x2="750" y2="8" stroke="#2A2A33" stroke-width="1.25"/>
+  <line x1="30" y1="8" x2="750" y2="8" stroke="url(#divGrad)" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="70 690">
+    <animate attributeName="stroke-dashoffset" from="760" to="0" dur="9s" repeatCount="indefinite"/>
+  </line>
+</svg>

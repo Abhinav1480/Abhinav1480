@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="46" viewBox="0 0 192 46" role="img" aria-labelledby="btn-portfolio.svgTitle">
+  <title id="btn-portfolio.svgTitle">PORTFOLIO</title>
+  <rect width="192" height="46" rx="23" fill="#14141B" stroke="#2A2A33" stroke-width="1.2"/>
+  <circle cx="24" cy="23" r="4.5" fill="#FF4D30"/>
+  <text x="42" y="29" font-family="'ui-monospace', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" letter-spacing="1.6"
+        fill="#E8EAF0">PORTFOLIO</text>
+  <g transform="translate(165, 17)" stroke="#FF4D30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 11 L11 0 M0 0 H11 V11"/>
+  </g>
+</svg>
