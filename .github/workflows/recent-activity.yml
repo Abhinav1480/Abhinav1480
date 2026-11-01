@@ -23,5 +23,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
-          README_FILE: "README.md"
+          TARGET_FILE: "README.md"
+          FILTER_EVENTS: "PushEvent,CreateEvent,PullRequestEvent,IssueCommentEvent,IssuesEvent,ReleaseEvent,ForkEvent,WatchEvent"
           COMMIT_MSG: "chore: update recent activity section"
