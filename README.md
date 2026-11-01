@@ -201,7 +201,7 @@ spend most of my time. I'm currently exploring the seams between
 &nbsp;
 <img src="https://img.shields.io/badge/ACM_VJIT_AI_Battle-5B8DEF?style=for-the-badge&labelColor=14141B" alt="Badge: ACM VJIT AI Battle participant, 8 April 2026" />
 &nbsp;
-<img src="https://img.shields.io/badge/ACM_VJIT_Re_designX-43C9B7?style=for-the-badge&labelColor=14141B" alt="Badge: ACM VJIT Re-designX participant, 9 April 2026" />
+<img src="https://img.shields.io/badge/ACM_VJIT_Re--designX-43C9B7?style=for-the-badge&labelColor=14141B" alt="Badge: ACM VJIT Re-designX participant, 9 April 2026" />
 
 <br /><br />
 
