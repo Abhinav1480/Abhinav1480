@@ -12,6 +12,7 @@ Push this whole folder structure to the `main` branch of
 README.md
 SETUP.md
 scripts/generate_svgs.py
+scripts/update_activity.py
 assets/            (11 SVGs, all XML-validated)
 .github/workflows/ (snake.yml, recent-activity.yml, profile-summary-cards.yml)
 ```
@@ -75,7 +76,7 @@ renderer with no animation support still shows a complete, sensible image.
 | Contribution calendar | `github-profile-summary-cards` `profile-details` card (live API) | **`github-readme-activity-graph.vercel.app` is dead** (HTTP 402, DEPLOYMENT_DISABLED) |
 | Streak stats | `streak-stats.demolab.com` (custom hex params) | live, theme-matched |
 | Contribution snake | `Platane/snk@v3` | live; **needs the manual commit/push** I added to the workflow |
-| Recent activity | `jamesgeorge007/github-activity-readme` | live, writes the README section itself |
+| Recent activity | `scripts/update_activity.py` run by `recent-activity.yml` | live events; the popular `github-activity-readme` action can't serialize Push/Create events, which is all this feed has |
 | Profile views | `hits.dwyl.com/Abhinav1480/Abhinav1480.svg` | the only live counter found: komarev (404), profile-counter.glitch.me (410), visitcount.itsvg.in (404) |
 | Icons | `skillicons.dev` | live, dark theme |
 

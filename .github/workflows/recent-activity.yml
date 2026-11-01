@@ -1,5 +1,6 @@
-# Recent activity block — jamesgeorge007/github-activity-readme rewrites the section
-# between the START/END activity markers in README.md. Run once to populate it.
+# Recent activity block — scripts/update_activity.py pulls Abhinav1480's live
+# public event feed and rewrites the section between the START/END activity
+# markers in README.md. Runs daily or on demand.
 name: Update recent activity
 
 on:
@@ -17,12 +18,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Activity readme
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Fetch events and rewrite the activity section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
-          TARGET_FILE: "README.md"
-          FILTER_EVENTS: "PushEvent,CreateEvent,PullRequestEvent,IssueCommentEvent,IssuesEvent,ReleaseEvent,ForkEvent,WatchEvent"
-          COMMIT_MSG: "chore: update recent activity section"
+        run: python scripts/update_activity.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent activity section" || echo "nothing to commit"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push failed (attempt $i), retrying in $((i * 10))s..."
+            sleep $((i * 10))
+          done
+          exit 1
