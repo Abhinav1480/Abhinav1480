@@ -1,8 +1,10 @@
+# Recent activity block — jamesgeorge007/github-activity-readme rewrites the section
+# between the START/END activity markers in README.md. Run once to populate it.
 name: Update recent activity
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *" # 02:00 UTC daily
   workflow_dispatch:
 
 permissions:
@@ -23,7 +25,3 @@ jobs:
           MAX_LINES: 10
           README_FILE: "README.md"
           COMMIT_MSG: "chore: update recent activity section"
-
-File 2 — .github/workflows/recent-activity.yml (recent activity block):
-
-n

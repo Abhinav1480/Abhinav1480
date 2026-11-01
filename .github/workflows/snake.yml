@@ -1,8 +1,11 @@
+# Contribution snake (Platane/snk) — regenerates the light + dark snake SVGs daily.
+# The action builds the SVGs but does NOT push them, so the commit/push steps below
+# are required. Single run or schedule — this file was verified against snk v3.
 name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 1 * * *" # 01:00 UTC daily
   workflow_dispatch:
 
 permissions:

@@ -1,8 +1,11 @@
+# GitHub profile summary cards — writes themed cards (profile-details, stats,
+# languages, productive time) into /assets as an in-repo archive. The README loads
+# the fresher live API images directly; these files are the durable backup.
 name: Generate profile summary cards
 
 on:
   schedule:
-    - cron: "0 3 * * 0"
+    - cron: "0 3 * * 0" # 03:00 UTC every Sunday
   workflow_dispatch:
 
 permissions:
