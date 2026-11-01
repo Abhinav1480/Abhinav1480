@@ -66,7 +66,7 @@ renderer with no animation support still shows a complete, sensible image.
 - **Sutradhar & Clinic Desk** — I described them exactly as "collaborative" and "hackathon project" with no role or win claims. If you want more detail (tech stack, what you built, team size), add it — I left `<!-- Please verify... -->` comments at each card.
 - **AWS Tech Member '26 / AWS Cloud Club VJIT / Google Ambassador / AWS Student Community Day Hyderabad 2026** — used verbatim from your brief, badges only, no rank or role invented beyond the names themselves.
 - **ExamOS live URL** — `https://exam-os-seven.vercel.app/` is from your brief; confirm it still deploys before recruiters click it.
-- **Hackathon participation** — listed as *participated* only, never placed. That stays true even if you later win something; update the badges then.
+- **Hackathon participation** — taken verbatim from your list. Only AIML Hacks KGRH is listed as a win (1st Place); the other seven are listed as *participated* only. If you place in any of those later, update the badge.
 
 ## Service choices & substitutions (verified live on Oct 31, 2026)
 

@@ -61,9 +61,9 @@ spend most of my time. I'm currently exploring the seams between
 
 **Languages**
 <br />
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&perline=4&theme=dark" alt="Skill icons: Java, Python, JavaScript, TypeScript" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,sql&perline=6&theme=dark" alt="Skill icons: Java, JavaScript, TypeScript, Python, C, SQL" />
 <br />
-<sub>Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript</sub>
+<sub>Java &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; C &nbsp;·&nbsp; SQL</sub>
 
 <br /><br />
 
@@ -179,14 +179,33 @@ spend most of my time. I'm currently exploring the seams between
 
 <br /><br />
 
+<sub>Hackathon win</sub>
+<br /><br />
+
+<img src="https://img.shields.io/badge/AIML_Hacks_KGRH-1ST_PLACE-FF4D30?style=for-the-badge&labelColor=14141B" alt="Badge: AIML Hacks KGRH national-level hackathon — 1st place" />
+
+<br /><br />
+
 <sub>Hackathons I've participated in</sub>
 <br /><br />
 
 <img src="https://img.shields.io/badge/Smart_India_Hackathon-43C9B7?style=for-the-badge&labelColor=14141B" alt="Badge: Smart India Hackathon (SIH) participant" />
 &nbsp;
-<img src="https://img.shields.io/badge/Replit_Vibrathon-FF8A45?style=for-the-badge&labelColor=14141B" alt="Badge: Replit Vibrathon participant" />
+<img src="https://img.shields.io/badge/HackIndia_2025-5B8DEF?style=for-the-badge&labelColor=14141B" alt="Badge: HackIndia 2025 LIET UP West Regionals participant, Team Silent Eclipse" />
 &nbsp;
-<img src="https://img.shields.io/badge/ACM_KLH_HackWithAI-5B8DEF?style=for-the-badge&labelColor=14141B" alt="Badge: ACM KLH HackWithAI participant" />
+<img src="https://img.shields.io/badge/YUVAAN_AI_ML-FF718A?style=for-the-badge&labelColor=14141B" alt="Badge: YUVAAN National AI/ML Hackathon participant, Team Salaar" />
+&nbsp;
+<img src="https://img.shields.io/badge/Replit_Polaris_Vibeathon-FF8A45?style=for-the-badge&labelColor=14141B" alt="Badge: Replit Polaris Vibeathon 36-hour participant" />
+&nbsp;
+<img src="https://img.shields.io/badge/HackWithAI_2026-FFC857?style=for-the-badge&labelColor=14141B" alt="Badge: HackWithAI 2026 24-hour offline AI hackathon, KLH Bachupally ACM Student Chapter" />
+&nbsp;
+<img src="https://img.shields.io/badge/ACM_VJIT_AI_Battle-5B8DEF?style=for-the-badge&labelColor=14141B" alt="Badge: ACM VJIT AI Battle participant, 8 April 2026" />
+&nbsp;
+<img src="https://img.shields.io/badge/ACM_VJIT_Re_designX-43C9B7?style=for-the-badge&labelColor=14141B" alt="Badge: ACM VJIT Re-designX participant, 9 April 2026" />
+
+<br /><br />
+
+<sub>Smart India Hackathon &nbsp;·&nbsp; HackIndia 2025 — LIET UP West Regionals, Team Silent Eclipse &nbsp;·&nbsp; YUVAAN National AI/ML Hackathon by Vivriti Capital, IIIT Hyderabad, Team Salaar &nbsp;·&nbsp; Replit Polaris Vibeathon (36-hour) &nbsp;·&nbsp; HackWithAI 2026 (24-hour offline, KLH Bachupally ACM) &nbsp;·&nbsp; ACM VJIT AI Battle &nbsp;·&nbsp; ACM VJIT Re-designX</sub>
 
 </div>
 
