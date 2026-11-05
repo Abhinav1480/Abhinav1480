@@ -254,8 +254,6 @@ spend most of my time. I'm currently exploring the seams between
 4. 📦 Created branch `main` in [`Abhinav1480/clinic-desk`](https://github.com/Abhinav1480/clinic-desk)
 5. 📦 Created branch `main` in [`Abhinav1480/portfolio-assets`](https://github.com/Abhinav1480/portfolio-assets)
 6. ⬆️ Pushed 1 commit to [`Abhinav1480/Abhi_portfolio`](https://github.com/Abhinav1480/Abhi_portfolio) on `main`
-7. ⬆️ Pushed 1 commit to [`Abhinav1480/itzfizz`](https://github.com/Abhinav1480/itzfizz) on `main`
-8. 📦 Created branch `main` in [`Abhinav1480/itzfizz`](https://github.com/Abhinav1480/itzfizz)
 <!--END_SECTION:activity-->
 
 </div>
